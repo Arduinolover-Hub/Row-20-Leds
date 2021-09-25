@@ -31,3 +31,36 @@ Once we finished our shield board; it is time to bring it to life. In order to m
 
 ## How to Order our PCB in JLCPCB ?
 Once We are register, and We logged in our account, We are ready to submit an order and receive our board in a very short time. In this case We need to update first the gerber files, which contains all the necesary information to build the pcb, You can get the gerber files in the link bellow.
+
+## Upload your gerber files
+This is the first step, after we have ready our schematic and pcb layout, and after we generated the gerber files, We should upload this files to the JLCPCB website service.
+
+## Indicate the features
+After the upload of our gerber files, We need to indicate the features of the board, in the next picture you can see the options available.
+
+## Add your shipping address
+This part is very important, here you should write your currently address, where you would like to receive your pcb prototypes. It is not common but sometimes very rarely, you will need to pay extra feeds, but as I told you, it is very rarely.
+
+## Make the payment and finish the order
+After you indicates this information, We continue with the payment section, These is the section where you can apply your coupons or discount codes. Basically We can complete the paymente by two general ways, Paypal or Credit card.
+
+## Receive your PCB
+Days later, 7 days or few more, according to your location and custom broker process, You will receive your pcb prototypes.
+
+# Why JCLPCB?
+JLCPCB has been at the fore front of the PCB industry. With over 14-year continuous innovation and improvement based on customers' need, we have been growing fast, and becoming a leading global PCB manufacturer, who provides the rapid production of high-reliability and cost-effective PCBs and creates the best customer experience in the industry.In case that you do not have an account yet, check out the bellow link►JLCPCB: https://jlcpcb.com/IAT
+- Most Efficient, Economic, Innovative PCB Solutions
+- Higher Quality
+- Lower Cost
+- Faster Delivery
+
+# BUILDING THE BOARD
+Attached you will find the BOM (bill of materials) needed to build the PCB, as you can see in the list you can use the designator and You can check also with the schematic circuit.
+
+# TESTING THE BOARD
+Now our Digital Output shield board is ready, and we can test it as well. So in order to do that first we need to mount in our Arduino board or breadboard.
+Let's make the test with an Arduino Uno board, because it is the most used board and I am almost sure that you must have this board too. Now just we need to upload a sketch. Attached you will find and example, and other examples.
+
+# THANKS
+Thank to:
+►JLCPCB: https://jlcpcb.com/IAT
