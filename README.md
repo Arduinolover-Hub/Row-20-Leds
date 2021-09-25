@@ -1,4 +1,4 @@
-# Row-20-Leds
+# Row 20 Leds
 This is a very practical board that I always use, it has different purposes for example: Fast board to test our codes, board output checker and led sequence maker. The board is compatible with Arduino (any arduino board), but you can use it with a breadboard and in this way also able to work with the microcontroller that you prefer or you are familiar with. We are going to build it from scratch to the pcb. From idea to desing.
 
 # MAIN FEAUTURES
